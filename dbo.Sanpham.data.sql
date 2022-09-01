@@ -1,0 +1,5 @@
+﻿INSERT INTO [dbo].[Sanpham] ([MaSP], [Name], [Price]) VALUES (N'1', N'Iphone Xs Max 64GB', 18000000)
+INSERT INTO [dbo].[Sanpham] ([MaSP], [Name], [Price]) VALUES (N'2', N'OPPO F9 6GB', 6000000)
+INSERT INTO [dbo].[Sanpham] ([MaSP], [Name], [Price]) VALUES (N'3', N'Samsung galaxy Note 10', 12000000)
+INSERT INTO [dbo].[Sanpham] ([MaSP], [Name], [Price]) VALUES (N'4', N'Iphone X 64GB', 15000000)
+INSERT INTO [dbo].[Sanpham] ([MaSP], [Name], [Price]) VALUES (N'5', N'Iphone 8 128GB', 10000000)
